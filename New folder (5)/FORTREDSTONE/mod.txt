@@ -1,0 +1,6 @@
+name=Fort Redstone, KY
+id=FORTREDSTONE
+description=A highly defendable Military base, located just out of Rosewood.
+poster=poster.png
+pack=NZTILEPACK
+tiledef=NZNEWTILES 1200
